@@ -1,5 +1,5 @@
 # regex-c3
-regex libray in c3 language
+regex library in c3 language
 
 This is a 1:1 translation of C Regex ( https://github.com/ximtech/Regex ) for learning purpose.
 
