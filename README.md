@@ -5,6 +5,7 @@ Thi is a 1:1 translation of C Regex ( https://github.com/ximtech/Regex )
 
 demo:
 
+```
 import regex;
 import std::io;
 fn void main()
@@ -26,3 +27,4 @@ fn void main()
 
 }
         
+```
